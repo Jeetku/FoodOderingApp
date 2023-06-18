@@ -26,8 +26,8 @@ h6 {
   font-family: "RocknRoll one", sans-serif !important;
 }
 a {
-  text-decoration: none;
-  color: unset;
+  text-decoration: none !important;
+  color: unset !important;
 }
 
 h2,
